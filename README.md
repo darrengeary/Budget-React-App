@@ -1,4 +1,4 @@
-#Budget/Expenditure React App
+# Budget/Expenditure React App
 
 Deployment :rocket: http://216.158.229.123:8080/budget/
 
